@@ -22,6 +22,11 @@ My name is Julian Tripicchio, im 20 years old. I am looking to learn new knowled
 <img style ="display: inline-block; vertical-align: middle;" width="65" height="65" alt="cpp "src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg"/>
 </div>
 
+<h1> IDE's </h1>
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+
  <h1>📫Contact</h1>
 
 💬Feel free to reach out to me via:
