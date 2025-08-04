@@ -34,5 +34,13 @@ My name is Julian Tripicchio, im 20 years old. I am looking to learn new knowled
 <a href="mailto:juliantripicchio01@gmail.com">	![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/julian-tripicchio/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
+<h2>⚙️GitHub Analytics</h2>
+
+<p>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JulianT52&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JulianT52&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
  
 
