@@ -4,14 +4,14 @@
 
 <h1>🙋🏻‍♂️Presentation</h1>
 
-My name is Julian Tripicchio, im 20 years old. I am looking to learn new knowledge and improve what has already been acquired. I like to get involved in new environments and adapt to them as much as possible. I’m an enthusiastic person, committed to my work and who generates good work environments.
+My name is Julian Tripicchio, im 20 years old. I am looking for new knowledge and improving that already acquired. I like getting involved in new environments and adapting to them as much as possible. I’m an enthusiastic person, committed to my work and who generates good work environments.
 
 <h1>About me</h1>
 - 🔭 I’m currently working as a private teacher at the elemental, mid and superior level. <br>
 - 🌱 Student of Computer Engineering at UTN BA. <br>
 - 👯 Natural Team Worker: "Together we are more than the sum of the parts". <br>
 - 🗣️ Good communicator: I think that the key of the success is a great communication, if you dont reach success, at least you gain a friend. <br>
-- 🤔 Thinker: Always you have something to think about, i always think in how to upgrade my skills or how to help my partners. <br>
+- 🤔 Thinker: Always you have something to think about, I always think in how to upgrade my skills or how to help my partners. <br>
 
 <h1>⌨️Languages</h1>
 <div>
