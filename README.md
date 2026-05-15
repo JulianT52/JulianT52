@@ -2,9 +2,17 @@
 <br>
 <img width="1000" height="250" alt="image" src="https://github.com/user-attachments/assets/81e17f21-7fee-4689-b4db-fd8532083f94" />
 
-<h1>🙋🏻‍♂️Presentation</h1>
+<h1>  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> Presentation</h1>
 
 My name is Julian Tripicchio, im 20 years old. I am looking for new knowledge and improving that already acquired. I like getting involved in new environments and adapting to them as much as possible. I’m an enthusiastic person, committed to my work and who generates good work environments.
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <h1>About me</h1>
 - 🔭 I’m currently working as a private teacher at the elemental, mid and superior level. <br>
@@ -21,6 +29,10 @@ My name is Julian Tripicchio, im 20 years old. I am looking for new knowledge an
 <img style ="display: inline-block; vertical-align: middle;" width="65" height="65" alt="html "src="https://github.com/devicons/devicon/raw/v2.15.1/icons/html5/html5-original.svg"/>
 <img style ="display: inline-block; vertical-align: middle;" width="65" height="65" alt="cpp "src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg"/>
 </div>
+  
+<br/>
+
+![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
 
 <h1> IDE's </h1>
 
