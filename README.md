@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I’m Julian Tripicchio👋 </h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Julian+Tripicchio;UTN+Student;Obsessed+with+improving." alt="Typing SVG" />
+</h1>
 <br>
 <img width="1000" height="250" alt="image" src="https://github.com/user-attachments/assets/81e17f21-7fee-4689-b4db-fd8532083f94" />
 
