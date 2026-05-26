@@ -6,7 +6,7 @@
 
 <h1>  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> Presentation</h1>
 
-My name is Julian Tripicchio, im 20 years old. I am looking for new knowledge and improving that already acquired. I like getting involved in new environments and adapting to them as much as possible. I’m an enthusiastic person, committed to my work and who generates good work environments.
+Im 21 years old. I am looking for new knowledge and improving that already acquired. I like getting involved in new environments and adapting to them as much as possible. I’m an enthusiastic person, committed to my work and who generates good work environments.
 
 <div align="center">
   <picture>
